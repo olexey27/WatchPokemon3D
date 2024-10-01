@@ -5,7 +5,10 @@
   },
   "resources" : [
     {
-      "filename" : "eevee.arreferenceimage"
+      "filename" : "bulbasaur-card.arreferenceimage"
+    },
+    {
+      "filename" : "eevee-card.arreferenceimage"
     }
   ]
 }
